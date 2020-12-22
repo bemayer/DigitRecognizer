@@ -37,8 +37,8 @@ library(caret)
 # Read, convert and subset the data
 load("./Data/data_train.rda")
 load("./Data/data_test.rda")
-X_train <- data_train %>% select(matches("pix*"))
-X_test <- data_test %>% select(matches("pix*"))
+X_train <- data_train %>% dplyr::select(dplyr::matches("pix*"))
+X_test <- data_test %>% dplyr::select(dplyr::matches("pix*"))
 # Numerical factors not accepted by Keras 
 # Error: "Please use factor levels that can be used as valid R variable names"
 data_train[["class"]] <- as.factor(make.names(data_train[["class"]]))
