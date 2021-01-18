@@ -2,3 +2,4 @@
 .RData
 .RHistory
 /Caret/Model/*
+.vscode*

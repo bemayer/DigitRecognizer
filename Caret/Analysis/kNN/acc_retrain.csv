@@ -1,0 +1,3001 @@
+col,k,acc_test
+Correlation,1,0.968
+Correlation,2,0.964
+Correlation,3,0.974
+Correlation,4,0.972
+Correlation,5,0.98
+Correlation,6,0.978
+Correlation,7,0.974
+Correlation,8,0.974
+Correlation,9,0.972
+Correlation,10,0.972
+Correlation,11,0.966
+Correlation,12,0.97
+Correlation,13,0.97
+Correlation,14,0.968
+Correlation,15,0.966
+Correlation,16,0.97
+Correlation,17,0.964
+Correlation,18,0.968
+Correlation,19,0.968
+Correlation,20,0.966
+Correlation,21,0.964
+Correlation,22,0.96
+Correlation,23,0.96
+Correlation,24,0.96
+Correlation,25,0.958
+Correlation,26,0.956
+Correlation,27,0.954
+Correlation,28,0.952
+Correlation,29,0.954
+Correlation,30,0.954
+Correlation,31,0.956
+Correlation,32,0.954
+Correlation,33,0.952
+Correlation,34,0.946
+Correlation,35,0.946
+Correlation,36,0.948
+Correlation,37,0.946
+Correlation,38,0.944
+Correlation,39,0.944
+Correlation,40,0.946
+Correlation,41,0.942
+Correlation,42,0.946
+Correlation,43,0.944
+Correlation,44,0.946
+Correlation,45,0.946
+Correlation,46,0.942
+Correlation,47,0.942
+Correlation,48,0.946
+Correlation,49,0.942
+Correlation,50,0.938
+Correlation,51,0.938
+Correlation,52,0.938
+Correlation,53,0.936
+Correlation,54,0.932
+Correlation,55,0.936
+Correlation,56,0.932
+Correlation,57,0.934
+Correlation,58,0.932
+Correlation,59,0.928
+Correlation,60,0.928
+Correlation,61,0.928
+Correlation,62,0.932
+Correlation,63,0.93
+Correlation,64,0.93
+Correlation,65,0.93
+Correlation,66,0.93
+Correlation,67,0.928
+Correlation,68,0.926
+Correlation,69,0.924
+Correlation,70,0.924
+Correlation,71,0.924
+Correlation,72,0.924
+Correlation,73,0.926
+Correlation,74,0.924
+Correlation,75,0.924
+Correlation,76,0.924
+Correlation,77,0.924
+Correlation,78,0.922
+Correlation,79,0.924
+Correlation,80,0.922
+Correlation,81,0.918
+Correlation,82,0.92
+Correlation,83,0.922
+Correlation,84,0.92
+Correlation,85,0.92
+Correlation,86,0.918
+Correlation,87,0.918
+Correlation,88,0.914
+Correlation,89,0.918
+Correlation,90,0.918
+Correlation,91,0.918
+Correlation,92,0.918
+Correlation,93,0.916
+Correlation,94,0.916
+Correlation,95,0.912
+Correlation,96,0.912
+Correlation,97,0.912
+Correlation,98,0.912
+Correlation,99,0.912
+Correlation,100,0.912
+Correlation,101,0.912
+Correlation,102,0.912
+Correlation,103,0.912
+Correlation,104,0.912
+Correlation,105,0.912
+Correlation,106,0.91
+Correlation,107,0.908
+Correlation,108,0.91
+Correlation,109,0.912
+Correlation,110,0.91
+Correlation,111,0.906
+Correlation,112,0.906
+Correlation,113,0.906
+Correlation,114,0.904
+Correlation,115,0.902
+Correlation,116,0.902
+Correlation,117,0.902
+Correlation,118,0.9
+Correlation,119,0.9
+Correlation,120,0.898
+Correlation,121,0.898
+Correlation,122,0.896
+Correlation,123,0.896
+Correlation,124,0.896
+Correlation,125,0.898
+Correlation,126,0.896
+Correlation,127,0.896
+Correlation,128,0.896
+Correlation,129,0.896
+Correlation,130,0.894
+Correlation,131,0.892
+Correlation,132,0.892
+Correlation,133,0.892
+Correlation,134,0.896
+Correlation,135,0.894
+Correlation,136,0.896
+Correlation,137,0.896
+Correlation,138,0.896
+Correlation,139,0.896
+Correlation,140,0.896
+Correlation,141,0.896
+Correlation,142,0.894
+Correlation,143,0.894
+Correlation,144,0.898
+Correlation,145,0.894
+Correlation,146,0.894
+Correlation,147,0.896
+Correlation,148,0.89
+Correlation,149,0.892
+Correlation,150,0.892
+Correlation,151,0.892
+Correlation,152,0.89
+Correlation,153,0.894
+Correlation,154,0.892
+Correlation,155,0.89
+Correlation,156,0.886
+Correlation,157,0.886
+Correlation,158,0.886
+Correlation,159,0.886
+Correlation,160,0.884
+Correlation,161,0.884
+Correlation,162,0.888
+Correlation,163,0.884
+Correlation,164,0.88
+Correlation,165,0.882
+Correlation,166,0.88
+Correlation,167,0.886
+Correlation,168,0.878
+Correlation,169,0.886
+Correlation,170,0.888
+Correlation,171,0.882
+Correlation,172,0.88
+Correlation,173,0.876
+Correlation,174,0.876
+Correlation,175,0.876
+Correlation,176,0.876
+Correlation,177,0.876
+Correlation,178,0.88
+Correlation,179,0.876
+Correlation,180,0.874
+Correlation,181,0.872
+Correlation,182,0.872
+Correlation,183,0.868
+Correlation,184,0.868
+Correlation,185,0.87
+Correlation,186,0.872
+Correlation,187,0.87
+Correlation,188,0.866
+Correlation,189,0.866
+Correlation,190,0.864
+Correlation,191,0.864
+Correlation,192,0.866
+Correlation,193,0.862
+Correlation,194,0.866
+Correlation,195,0.866
+Correlation,196,0.866
+Correlation,197,0.864
+Correlation,198,0.864
+Correlation,199,0.86
+Correlation,200,0.86
+Correlation,201,0.862
+Correlation,202,0.86
+Correlation,203,0.86
+Correlation,204,0.86
+Correlation,205,0.86
+Correlation,206,0.858
+Correlation,207,0.858
+Correlation,208,0.86
+Correlation,209,0.856
+Correlation,210,0.862
+Correlation,211,0.86
+Correlation,212,0.86
+Correlation,213,0.856
+Correlation,214,0.854
+Correlation,215,0.856
+Correlation,216,0.856
+Correlation,217,0.852
+Correlation,218,0.852
+Correlation,219,0.852
+Correlation,220,0.848
+Correlation,221,0.844
+Correlation,222,0.846
+Correlation,223,0.844
+Correlation,224,0.844
+Correlation,225,0.844
+Correlation,226,0.836
+Correlation,227,0.834
+Correlation,228,0.838
+Correlation,229,0.84
+Correlation,230,0.836
+Correlation,231,0.834
+Correlation,232,0.836
+Correlation,233,0.834
+Correlation,234,0.83
+Correlation,235,0.832
+Correlation,236,0.83
+Correlation,237,0.832
+Correlation,238,0.826
+Correlation,239,0.82
+Correlation,240,0.822
+Correlation,241,0.816
+Correlation,242,0.814
+Correlation,243,0.816
+Correlation,244,0.816
+Correlation,245,0.816
+Correlation,246,0.816
+Correlation,247,0.814
+Correlation,248,0.814
+Correlation,249,0.81
+Correlation,250,0.808
+Correlation,251,0.806
+Correlation,252,0.806
+Correlation,253,0.806
+Correlation,254,0.8
+Correlation,255,0.802
+Correlation,256,0.802
+Correlation,257,0.798
+Correlation,258,0.802
+Correlation,259,0.8
+Correlation,260,0.804
+Correlation,261,0.806
+Correlation,262,0.8
+Correlation,263,0.802
+Correlation,264,0.8
+Correlation,265,0.798
+Correlation,266,0.8
+Correlation,267,0.796
+Correlation,268,0.792
+Correlation,269,0.792
+Correlation,270,0.792
+Correlation,271,0.79
+Correlation,272,0.794
+Correlation,273,0.788
+Correlation,274,0.792
+Correlation,275,0.784
+Correlation,276,0.788
+Correlation,277,0.784
+Correlation,278,0.786
+Correlation,279,0.778
+Correlation,280,0.786
+Correlation,281,0.78
+Correlation,282,0.778
+Correlation,283,0.782
+Correlation,284,0.778
+Correlation,285,0.782
+Correlation,286,0.782
+Correlation,287,0.78
+Correlation,288,0.778
+Correlation,289,0.774
+Correlation,290,0.774
+Correlation,291,0.77
+Correlation,292,0.772
+Correlation,293,0.768
+Correlation,294,0.77
+Correlation,295,0.77
+Correlation,296,0.766
+Correlation,297,0.762
+Correlation,298,0.766
+Correlation,299,0.762
+Correlation,300,0.762
+Correlation,301,0.76
+Correlation,302,0.76
+Correlation,303,0.76
+Correlation,304,0.76
+Correlation,305,0.76
+Correlation,306,0.758
+Correlation,307,0.76
+Correlation,308,0.76
+Correlation,309,0.76
+Correlation,310,0.762
+Correlation,311,0.762
+Correlation,312,0.76
+Correlation,313,0.762
+Correlation,314,0.762
+Correlation,315,0.756
+Correlation,316,0.756
+Correlation,317,0.754
+Correlation,318,0.75
+Correlation,319,0.754
+Correlation,320,0.752
+Correlation,321,0.748
+Correlation,322,0.748
+Correlation,323,0.746
+Correlation,324,0.746
+Correlation,325,0.744
+Correlation,326,0.744
+Correlation,327,0.746
+Correlation,328,0.746
+Correlation,329,0.752
+Correlation,330,0.75
+Correlation,331,0.748
+Correlation,332,0.748
+Correlation,333,0.754
+Correlation,334,0.748
+Correlation,335,0.75
+Correlation,336,0.75
+Correlation,337,0.75
+Correlation,338,0.752
+Correlation,339,0.754
+Correlation,340,0.752
+Correlation,341,0.752
+Correlation,342,0.75
+Correlation,343,0.746
+Correlation,344,0.744
+Correlation,345,0.742
+Correlation,346,0.746
+Correlation,347,0.738
+Correlation,348,0.74
+Correlation,349,0.736
+Correlation,350,0.732
+Correlation,351,0.73
+Correlation,352,0.732
+Correlation,353,0.736
+Correlation,354,0.73
+Correlation,355,0.728
+Correlation,356,0.728
+Correlation,357,0.734
+Correlation,358,0.732
+Correlation,359,0.724
+Correlation,360,0.728
+Correlation,361,0.726
+Correlation,362,0.726
+Correlation,363,0.724
+Correlation,364,0.726
+Correlation,365,0.724
+Correlation,366,0.724
+Correlation,367,0.724
+Correlation,368,0.726
+Correlation,369,0.726
+Correlation,370,0.726
+Correlation,371,0.726
+Correlation,372,0.728
+Correlation,373,0.724
+Correlation,374,0.724
+Correlation,375,0.724
+Correlation,376,0.724
+Correlation,377,0.722
+Correlation,378,0.72
+Correlation,379,0.722
+Correlation,380,0.72
+Correlation,381,0.72
+Correlation,382,0.72
+Correlation,383,0.722
+Correlation,384,0.726
+Correlation,385,0.72
+Correlation,386,0.72
+Correlation,387,0.724
+Correlation,388,0.72
+Correlation,389,0.724
+Correlation,390,0.718
+Correlation,391,0.718
+Correlation,392,0.72
+Correlation,393,0.72
+Correlation,394,0.716
+Correlation,395,0.722
+Correlation,396,0.718
+Correlation,397,0.72
+Correlation,398,0.72
+Correlation,399,0.716
+Correlation,400,0.718
+Correlation,401,0.712
+Correlation,402,0.714
+Correlation,403,0.712
+Correlation,404,0.712
+Correlation,405,0.716
+Correlation,406,0.714
+Correlation,407,0.71
+Correlation,408,0.712
+Correlation,409,0.706
+Correlation,410,0.708
+Correlation,411,0.708
+Correlation,412,0.712
+Correlation,413,0.712
+Correlation,414,0.716
+Correlation,415,0.708
+Correlation,416,0.708
+Correlation,417,0.706
+Correlation,418,0.704
+Correlation,419,0.712
+Correlation,420,0.702
+Correlation,421,0.708
+Correlation,422,0.706
+Correlation,423,0.706
+Correlation,424,0.7
+Correlation,425,0.706
+Correlation,426,0.71
+Correlation,427,0.704
+Correlation,428,0.7
+Correlation,429,0.696
+Correlation,430,0.696
+Correlation,431,0.7
+Correlation,432,0.7
+Correlation,433,0.696
+Correlation,434,0.696
+Correlation,435,0.698
+Correlation,436,0.696
+Correlation,437,0.692
+Correlation,438,0.69
+Correlation,439,0.688
+Correlation,440,0.69
+Correlation,441,0.69
+Correlation,442,0.686
+Correlation,443,0.692
+Correlation,444,0.69
+Correlation,445,0.688
+Correlation,446,0.688
+Correlation,447,0.694
+Correlation,448,0.69
+Correlation,449,0.696
+Correlation,450,0.686
+Correlation,451,0.688
+Correlation,452,0.684
+Correlation,453,0.692
+Correlation,454,0.684
+Correlation,455,0.686
+Correlation,456,0.684
+Correlation,457,0.682
+Correlation,458,0.682
+Correlation,459,0.684
+Correlation,460,0.686
+Correlation,461,0.684
+Correlation,462,0.682
+Correlation,463,0.684
+Correlation,464,0.684
+Correlation,465,0.68
+Correlation,466,0.68
+Correlation,467,0.686
+Correlation,468,0.684
+Correlation,469,0.682
+Correlation,470,0.68
+Correlation,471,0.68
+Correlation,472,0.682
+Correlation,473,0.682
+Correlation,474,0.682
+Correlation,475,0.682
+Correlation,476,0.682
+Correlation,477,0.68
+Correlation,478,0.678
+Correlation,479,0.676
+Correlation,480,0.672
+Correlation,481,0.68
+Correlation,482,0.678
+Correlation,483,0.672
+Correlation,484,0.676
+Correlation,485,0.676
+Correlation,486,0.676
+Correlation,487,0.676
+Correlation,488,0.68
+Correlation,489,0.68
+Correlation,490,0.674
+Correlation,491,0.67
+Correlation,492,0.672
+Correlation,493,0.672
+Correlation,494,0.676
+Correlation,495,0.674
+Correlation,496,0.676
+Correlation,497,0.672
+Correlation,498,0.676
+Correlation,499,0.674
+Correlation,500,0.674
+Fourier,1,0.798
+Fourier,2,0.778
+Fourier,3,0.8
+Fourier,4,0.812
+Fourier,5,0.8
+Fourier,6,0.788
+Fourier,7,0.794
+Fourier,8,0.786
+Fourier,9,0.784
+Fourier,10,0.77
+Fourier,11,0.778
+Fourier,12,0.778
+Fourier,13,0.786
+Fourier,14,0.786
+Fourier,15,0.79
+Fourier,16,0.778
+Fourier,17,0.776
+Fourier,18,0.78
+Fourier,19,0.772
+Fourier,20,0.776
+Fourier,21,0.774
+Fourier,22,0.774
+Fourier,23,0.784
+Fourier,24,0.786
+Fourier,25,0.786
+Fourier,26,0.782
+Fourier,27,0.778
+Fourier,28,0.788
+Fourier,29,0.782
+Fourier,30,0.788
+Fourier,31,0.778
+Fourier,32,0.774
+Fourier,33,0.772
+Fourier,34,0.766
+Fourier,35,0.768
+Fourier,36,0.764
+Fourier,37,0.762
+Fourier,38,0.768
+Fourier,39,0.766
+Fourier,40,0.768
+Fourier,41,0.772
+Fourier,42,0.764
+Fourier,43,0.766
+Fourier,44,0.768
+Fourier,45,0.77
+Fourier,46,0.768
+Fourier,47,0.764
+Fourier,48,0.768
+Fourier,49,0.76
+Fourier,50,0.762
+Fourier,51,0.76
+Fourier,52,0.762
+Fourier,53,0.762
+Fourier,54,0.758
+Fourier,55,0.758
+Fourier,56,0.754
+Fourier,57,0.756
+Fourier,58,0.748
+Fourier,59,0.746
+Fourier,60,0.746
+Fourier,61,0.746
+Fourier,62,0.746
+Fourier,63,0.742
+Fourier,64,0.754
+Fourier,65,0.746
+Fourier,66,0.74
+Fourier,67,0.742
+Fourier,68,0.738
+Fourier,69,0.748
+Fourier,70,0.73
+Fourier,71,0.734
+Fourier,72,0.738
+Fourier,73,0.734
+Fourier,74,0.728
+Fourier,75,0.728
+Fourier,76,0.726
+Fourier,77,0.728
+Fourier,78,0.728
+Fourier,79,0.724
+Fourier,80,0.728
+Fourier,81,0.728
+Fourier,82,0.722
+Fourier,83,0.718
+Fourier,84,0.718
+Fourier,85,0.712
+Fourier,86,0.718
+Fourier,87,0.716
+Fourier,88,0.708
+Fourier,89,0.704
+Fourier,90,0.698
+Fourier,91,0.702
+Fourier,92,0.7
+Fourier,93,0.694
+Fourier,94,0.694
+Fourier,95,0.686
+Fourier,96,0.692
+Fourier,97,0.686
+Fourier,98,0.692
+Fourier,99,0.694
+Fourier,100,0.692
+Fourier,101,0.696
+Fourier,102,0.698
+Fourier,103,0.696
+Fourier,104,0.702
+Fourier,105,0.702
+Fourier,106,0.702
+Fourier,107,0.708
+Fourier,108,0.706
+Fourier,109,0.698
+Fourier,110,0.698
+Fourier,111,0.696
+Fourier,112,0.698
+Fourier,113,0.692
+Fourier,114,0.698
+Fourier,115,0.7
+Fourier,116,0.696
+Fourier,117,0.696
+Fourier,118,0.7
+Fourier,119,0.696
+Fourier,120,0.692
+Fourier,121,0.69
+Fourier,122,0.694
+Fourier,123,0.682
+Fourier,124,0.684
+Fourier,125,0.682
+Fourier,126,0.68
+Fourier,127,0.678
+Fourier,128,0.68
+Fourier,129,0.676
+Fourier,130,0.678
+Fourier,131,0.672
+Fourier,132,0.676
+Fourier,133,0.674
+Fourier,134,0.678
+Fourier,135,0.672
+Fourier,136,0.676
+Fourier,137,0.672
+Fourier,138,0.676
+Fourier,139,0.674
+Fourier,140,0.678
+Fourier,141,0.686
+Fourier,142,0.682
+Fourier,143,0.68
+Fourier,144,0.682
+Fourier,145,0.682
+Fourier,146,0.682
+Fourier,147,0.684
+Fourier,148,0.684
+Fourier,149,0.684
+Fourier,150,0.674
+Fourier,151,0.678
+Fourier,152,0.682
+Fourier,153,0.686
+Fourier,154,0.684
+Fourier,155,0.676
+Fourier,156,0.676
+Fourier,157,0.676
+Fourier,158,0.668
+Fourier,159,0.68
+Fourier,160,0.67
+Fourier,161,0.67
+Fourier,162,0.674
+Fourier,163,0.668
+Fourier,164,0.664
+Fourier,165,0.668
+Fourier,166,0.666
+Fourier,167,0.67
+Fourier,168,0.666
+Fourier,169,0.666
+Fourier,170,0.668
+Fourier,171,0.664
+Fourier,172,0.666
+Fourier,173,0.672
+Fourier,174,0.672
+Fourier,175,0.674
+Fourier,176,0.67
+Fourier,177,0.662
+Fourier,178,0.668
+Fourier,179,0.674
+Fourier,180,0.666
+Fourier,181,0.656
+Fourier,182,0.658
+Fourier,183,0.662
+Fourier,184,0.662
+Fourier,185,0.658
+Fourier,186,0.658
+Fourier,187,0.66
+Fourier,188,0.662
+Fourier,189,0.662
+Fourier,190,0.664
+Fourier,191,0.656
+Fourier,192,0.654
+Fourier,193,0.654
+Fourier,194,0.66
+Fourier,195,0.656
+Fourier,196,0.65
+Fourier,197,0.658
+Fourier,198,0.652
+Fourier,199,0.646
+Fourier,200,0.648
+Fourier,201,0.65
+Fourier,202,0.648
+Fourier,203,0.648
+Fourier,204,0.65
+Fourier,205,0.646
+Fourier,206,0.648
+Fourier,207,0.642
+Fourier,208,0.644
+Fourier,209,0.644
+Fourier,210,0.644
+Fourier,211,0.644
+Fourier,212,0.644
+Fourier,213,0.642
+Fourier,214,0.644
+Fourier,215,0.646
+Fourier,216,0.64
+Fourier,217,0.64
+Fourier,218,0.638
+Fourier,219,0.642
+Fourier,220,0.646
+Fourier,221,0.644
+Fourier,222,0.64
+Fourier,223,0.644
+Fourier,224,0.648
+Fourier,225,0.64
+Fourier,226,0.642
+Fourier,227,0.632
+Fourier,228,0.642
+Fourier,229,0.644
+Fourier,230,0.634
+Fourier,231,0.638
+Fourier,232,0.634
+Fourier,233,0.626
+Fourier,234,0.62
+Fourier,235,0.624
+Fourier,236,0.622
+Fourier,237,0.618
+Fourier,238,0.62
+Fourier,239,0.624
+Fourier,240,0.626
+Fourier,241,0.63
+Fourier,242,0.628
+Fourier,243,0.628
+Fourier,244,0.624
+Fourier,245,0.624
+Fourier,246,0.622
+Fourier,247,0.618
+Fourier,248,0.62
+Fourier,249,0.616
+Fourier,250,0.622
+Fourier,251,0.614
+Fourier,252,0.62
+Fourier,253,0.62
+Fourier,254,0.62
+Fourier,255,0.62
+Fourier,256,0.616
+Fourier,257,0.622
+Fourier,258,0.616
+Fourier,259,0.618
+Fourier,260,0.618
+Fourier,261,0.62
+Fourier,262,0.612
+Fourier,263,0.614
+Fourier,264,0.612
+Fourier,265,0.616
+Fourier,266,0.612
+Fourier,267,0.612
+Fourier,268,0.616
+Fourier,269,0.614
+Fourier,270,0.608
+Fourier,271,0.606
+Fourier,272,0.612
+Fourier,273,0.614
+Fourier,274,0.612
+Fourier,275,0.614
+Fourier,276,0.614
+Fourier,277,0.606
+Fourier,278,0.604
+Fourier,279,0.61
+Fourier,280,0.604
+Fourier,281,0.6
+Fourier,282,0.608
+Fourier,283,0.596
+Fourier,284,0.596
+Fourier,285,0.596
+Fourier,286,0.592
+Fourier,287,0.588
+Fourier,288,0.586
+Fourier,289,0.588
+Fourier,290,0.59
+Fourier,291,0.586
+Fourier,292,0.588
+Fourier,293,0.588
+Fourier,294,0.586
+Fourier,295,0.588
+Fourier,296,0.588
+Fourier,297,0.59
+Fourier,298,0.59
+Fourier,299,0.588
+Fourier,300,0.584
+Fourier,301,0.588
+Fourier,302,0.588
+Fourier,303,0.582
+Fourier,304,0.582
+Fourier,305,0.586
+Fourier,306,0.584
+Fourier,307,0.58
+Fourier,308,0.586
+Fourier,309,0.588
+Fourier,310,0.588
+Fourier,311,0.592
+Fourier,312,0.58
+Fourier,313,0.584
+Fourier,314,0.584
+Fourier,315,0.584
+Fourier,316,0.582
+Fourier,317,0.58
+Fourier,318,0.582
+Fourier,319,0.584
+Fourier,320,0.58
+Fourier,321,0.588
+Fourier,322,0.582
+Fourier,323,0.578
+Fourier,324,0.576
+Fourier,325,0.576
+Fourier,326,0.574
+Fourier,327,0.574
+Fourier,328,0.578
+Fourier,329,0.572
+Fourier,330,0.576
+Fourier,331,0.576
+Fourier,332,0.574
+Fourier,333,0.572
+Fourier,334,0.576
+Fourier,335,0.58
+Fourier,336,0.57
+Fourier,337,0.578
+Fourier,338,0.578
+Fourier,339,0.578
+Fourier,340,0.578
+Fourier,341,0.57
+Fourier,342,0.578
+Fourier,343,0.568
+Fourier,344,0.572
+Fourier,345,0.57
+Fourier,346,0.576
+Fourier,347,0.57
+Fourier,348,0.574
+Fourier,349,0.566
+Fourier,350,0.566
+Fourier,351,0.568
+Fourier,352,0.57
+Fourier,353,0.564
+Fourier,354,0.566
+Fourier,355,0.562
+Fourier,356,0.566
+Fourier,357,0.56
+Fourier,358,0.56
+Fourier,359,0.562
+Fourier,360,0.568
+Fourier,361,0.566
+Fourier,362,0.564
+Fourier,363,0.554
+Fourier,364,0.558
+Fourier,365,0.558
+Fourier,366,0.554
+Fourier,367,0.562
+Fourier,368,0.558
+Fourier,369,0.556
+Fourier,370,0.556
+Fourier,371,0.56
+Fourier,372,0.556
+Fourier,373,0.552
+Fourier,374,0.552
+Fourier,375,0.55
+Fourier,376,0.544
+Fourier,377,0.55
+Fourier,378,0.542
+Fourier,379,0.544
+Fourier,380,0.54
+Fourier,381,0.542
+Fourier,382,0.546
+Fourier,383,0.542
+Fourier,384,0.54
+Fourier,385,0.534
+Fourier,386,0.534
+Fourier,387,0.536
+Fourier,388,0.536
+Fourier,389,0.536
+Fourier,390,0.542
+Fourier,391,0.538
+Fourier,392,0.538
+Fourier,393,0.538
+Fourier,394,0.538
+Fourier,395,0.538
+Fourier,396,0.534
+Fourier,397,0.528
+Fourier,398,0.528
+Fourier,399,0.528
+Fourier,400,0.53
+Fourier,401,0.522
+Fourier,402,0.526
+Fourier,403,0.522
+Fourier,404,0.526
+Fourier,405,0.524
+Fourier,406,0.524
+Fourier,407,0.52
+Fourier,408,0.53
+Fourier,409,0.526
+Fourier,410,0.528
+Fourier,411,0.526
+Fourier,412,0.518
+Fourier,413,0.518
+Fourier,414,0.514
+Fourier,415,0.514
+Fourier,416,0.514
+Fourier,417,0.518
+Fourier,418,0.512
+Fourier,419,0.518
+Fourier,420,0.518
+Fourier,421,0.52
+Fourier,422,0.516
+Fourier,423,0.52
+Fourier,424,0.52
+Fourier,425,0.516
+Fourier,426,0.52
+Fourier,427,0.516
+Fourier,428,0.518
+Fourier,429,0.516
+Fourier,430,0.52
+Fourier,431,0.514
+Fourier,432,0.516
+Fourier,433,0.512
+Fourier,434,0.516
+Fourier,435,0.512
+Fourier,436,0.518
+Fourier,437,0.514
+Fourier,438,0.516
+Fourier,439,0.514
+Fourier,440,0.51
+Fourier,441,0.51
+Fourier,442,0.508
+Fourier,443,0.502
+Fourier,444,0.506
+Fourier,445,0.504
+Fourier,446,0.506
+Fourier,447,0.498
+Fourier,448,0.494
+Fourier,449,0.502
+Fourier,450,0.504
+Fourier,451,0.508
+Fourier,452,0.504
+Fourier,453,0.502
+Fourier,454,0.504
+Fourier,455,0.504
+Fourier,456,0.502
+Fourier,457,0.504
+Fourier,458,0.504
+Fourier,459,0.5
+Fourier,460,0.504
+Fourier,461,0.5
+Fourier,462,0.5
+Fourier,463,0.498
+Fourier,464,0.506
+Fourier,465,0.5
+Fourier,466,0.498
+Fourier,467,0.496
+Fourier,468,0.502
+Fourier,469,0.506
+Fourier,470,0.502
+Fourier,471,0.502
+Fourier,472,0.502
+Fourier,473,0.504
+Fourier,474,0.502
+Fourier,475,0.508
+Fourier,476,0.506
+Fourier,477,0.508
+Fourier,478,0.504
+Fourier,479,0.504
+Fourier,480,0.502
+Fourier,481,0.5
+Fourier,482,0.5
+Fourier,483,0.5
+Fourier,484,0.496
+Fourier,485,0.5
+Fourier,486,0.498
+Fourier,487,0.5
+Fourier,488,0.492
+Fourier,489,0.488
+Fourier,490,0.496
+Fourier,491,0.49
+Fourier,492,0.496
+Fourier,493,0.494
+Fourier,494,0.49
+Fourier,495,0.494
+Fourier,496,0.496
+Fourier,497,0.49
+Fourier,498,0.492
+Fourier,499,0.486
+Fourier,500,0.486
+Karhunen-Loève,1,0.956
+Karhunen-Loève,2,0.948
+Karhunen-Loève,3,0.956
+Karhunen-Loève,4,0.952
+Karhunen-Loève,5,0.952
+Karhunen-Loève,6,0.942
+Karhunen-Loève,7,0.942
+Karhunen-Loève,8,0.944
+Karhunen-Loève,9,0.94
+Karhunen-Loève,10,0.94
+Karhunen-Loève,11,0.942
+Karhunen-Loève,12,0.938
+Karhunen-Loève,13,0.936
+Karhunen-Loève,14,0.936
+Karhunen-Loève,15,0.934
+Karhunen-Loève,16,0.924
+Karhunen-Loève,17,0.926
+Karhunen-Loève,18,0.928
+Karhunen-Loève,19,0.928
+Karhunen-Loève,20,0.924
+Karhunen-Loève,21,0.928
+Karhunen-Loève,22,0.926
+Karhunen-Loève,23,0.924
+Karhunen-Loève,24,0.922
+Karhunen-Loève,25,0.93
+Karhunen-Loève,26,0.924
+Karhunen-Loève,27,0.922
+Karhunen-Loève,28,0.922
+Karhunen-Loève,29,0.926
+Karhunen-Loève,30,0.922
+Karhunen-Loève,31,0.92
+Karhunen-Loève,32,0.92
+Karhunen-Loève,33,0.918
+Karhunen-Loève,34,0.916
+Karhunen-Loève,35,0.918
+Karhunen-Loève,36,0.922
+Karhunen-Loève,37,0.918
+Karhunen-Loève,38,0.92
+Karhunen-Loève,39,0.914
+Karhunen-Loève,40,0.908
+Karhunen-Loève,41,0.91
+Karhunen-Loève,42,0.918
+Karhunen-Loève,43,0.91
+Karhunen-Loève,44,0.91
+Karhunen-Loève,45,0.904
+Karhunen-Loève,46,0.896
+Karhunen-Loève,47,0.896
+Karhunen-Loève,48,0.89
+Karhunen-Loève,49,0.896
+Karhunen-Loève,50,0.89
+Karhunen-Loève,51,0.896
+Karhunen-Loève,52,0.888
+Karhunen-Loève,53,0.884
+Karhunen-Loève,54,0.89
+Karhunen-Loève,55,0.888
+Karhunen-Loève,56,0.884
+Karhunen-Loève,57,0.886
+Karhunen-Loève,58,0.888
+Karhunen-Loève,59,0.886
+Karhunen-Loève,60,0.888
+Karhunen-Loève,61,0.884
+Karhunen-Loève,62,0.878
+Karhunen-Loève,63,0.876
+Karhunen-Loève,64,0.882
+Karhunen-Loève,65,0.878
+Karhunen-Loève,66,0.88
+Karhunen-Loève,67,0.878
+Karhunen-Loève,68,0.882
+Karhunen-Loève,69,0.88
+Karhunen-Loève,70,0.88
+Karhunen-Loève,71,0.876
+Karhunen-Loève,72,0.878
+Karhunen-Loève,73,0.878
+Karhunen-Loève,74,0.882
+Karhunen-Loève,75,0.876
+Karhunen-Loève,76,0.876
+Karhunen-Loève,77,0.874
+Karhunen-Loève,78,0.872
+Karhunen-Loève,79,0.874
+Karhunen-Loève,80,0.87
+Karhunen-Loève,81,0.866
+Karhunen-Loève,82,0.868
+Karhunen-Loève,83,0.872
+Karhunen-Loève,84,0.866
+Karhunen-Loève,85,0.864
+Karhunen-Loève,86,0.866
+Karhunen-Loève,87,0.866
+Karhunen-Loève,88,0.866
+Karhunen-Loève,89,0.866
+Karhunen-Loève,90,0.866
+Karhunen-Loève,91,0.866
+Karhunen-Loève,92,0.864
+Karhunen-Loève,93,0.864
+Karhunen-Loève,94,0.864
+Karhunen-Loève,95,0.864
+Karhunen-Loève,96,0.862
+Karhunen-Loève,97,0.862
+Karhunen-Loève,98,0.864
+Karhunen-Loève,99,0.864
+Karhunen-Loève,100,0.862
+Karhunen-Loève,101,0.862
+Karhunen-Loève,102,0.86
+Karhunen-Loève,103,0.862
+Karhunen-Loève,104,0.866
+Karhunen-Loève,105,0.866
+Karhunen-Loève,106,0.862
+Karhunen-Loève,107,0.856
+Karhunen-Loève,108,0.852
+Karhunen-Loève,109,0.854
+Karhunen-Loève,110,0.854
+Karhunen-Loève,111,0.852
+Karhunen-Loève,112,0.858
+Karhunen-Loève,113,0.856
+Karhunen-Loève,114,0.852
+Karhunen-Loève,115,0.852
+Karhunen-Loève,116,0.852
+Karhunen-Loève,117,0.854
+Karhunen-Loève,118,0.852
+Karhunen-Loève,119,0.85
+Karhunen-Loève,120,0.85
+Karhunen-Loève,121,0.85
+Karhunen-Loève,122,0.848
+Karhunen-Loève,123,0.846
+Karhunen-Loève,124,0.846
+Karhunen-Loève,125,0.848
+Karhunen-Loève,126,0.844
+Karhunen-Loève,127,0.846
+Karhunen-Loève,128,0.848
+Karhunen-Loève,129,0.848
+Karhunen-Loève,130,0.846
+Karhunen-Loève,131,0.85
+Karhunen-Loève,132,0.846
+Karhunen-Loève,133,0.85
+Karhunen-Loève,134,0.846
+Karhunen-Loève,135,0.844
+Karhunen-Loève,136,0.842
+Karhunen-Loève,137,0.84
+Karhunen-Loève,138,0.842
+Karhunen-Loève,139,0.842
+Karhunen-Loève,140,0.838
+Karhunen-Loève,141,0.84
+Karhunen-Loève,142,0.84
+Karhunen-Loève,143,0.84
+Karhunen-Loève,144,0.842
+Karhunen-Loève,145,0.838
+Karhunen-Loève,146,0.838
+Karhunen-Loève,147,0.838
+Karhunen-Loève,148,0.838
+Karhunen-Loève,149,0.836
+Karhunen-Loève,150,0.84
+Karhunen-Loève,151,0.836
+Karhunen-Loève,152,0.832
+Karhunen-Loève,153,0.834
+Karhunen-Loève,154,0.832
+Karhunen-Loève,155,0.838
+Karhunen-Loève,156,0.832
+Karhunen-Loève,157,0.83
+Karhunen-Loève,158,0.834
+Karhunen-Loève,159,0.828
+Karhunen-Loève,160,0.832
+Karhunen-Loève,161,0.834
+Karhunen-Loève,162,0.826
+Karhunen-Loève,163,0.832
+Karhunen-Loève,164,0.826
+Karhunen-Loève,165,0.826
+Karhunen-Loève,166,0.824
+Karhunen-Loève,167,0.822
+Karhunen-Loève,168,0.826
+Karhunen-Loève,169,0.828
+Karhunen-Loève,170,0.824
+Karhunen-Loève,171,0.828
+Karhunen-Loève,172,0.824
+Karhunen-Loève,173,0.822
+Karhunen-Loève,174,0.822
+Karhunen-Loève,175,0.822
+Karhunen-Loève,176,0.818
+Karhunen-Loève,177,0.818
+Karhunen-Loève,178,0.816
+Karhunen-Loève,179,0.816
+Karhunen-Loève,180,0.818
+Karhunen-Loève,181,0.822
+Karhunen-Loève,182,0.818
+Karhunen-Loève,183,0.82
+Karhunen-Loève,184,0.822
+Karhunen-Loève,185,0.822
+Karhunen-Loève,186,0.818
+Karhunen-Loève,187,0.82
+Karhunen-Loève,188,0.82
+Karhunen-Loève,189,0.822
+Karhunen-Loève,190,0.822
+Karhunen-Loève,191,0.82
+Karhunen-Loève,192,0.818
+Karhunen-Loève,193,0.816
+Karhunen-Loève,194,0.812
+Karhunen-Loève,195,0.814
+Karhunen-Loève,196,0.816
+Karhunen-Loève,197,0.812
+Karhunen-Loève,198,0.812
+Karhunen-Loève,199,0.812
+Karhunen-Loève,200,0.812
+Karhunen-Loève,201,0.812
+Karhunen-Loève,202,0.816
+Karhunen-Loève,203,0.812
+Karhunen-Loève,204,0.814
+Karhunen-Loève,205,0.808
+Karhunen-Loève,206,0.81
+Karhunen-Loève,207,0.81
+Karhunen-Loève,208,0.806
+Karhunen-Loève,209,0.808
+Karhunen-Loève,210,0.81
+Karhunen-Loève,211,0.814
+Karhunen-Loève,212,0.812
+Karhunen-Loève,213,0.812
+Karhunen-Loève,214,0.81
+Karhunen-Loève,215,0.812
+Karhunen-Loève,216,0.808
+Karhunen-Loève,217,0.808
+Karhunen-Loève,218,0.808
+Karhunen-Loève,219,0.804
+Karhunen-Loève,220,0.802
+Karhunen-Loève,221,0.804
+Karhunen-Loève,222,0.804
+Karhunen-Loève,223,0.804
+Karhunen-Loève,224,0.804
+Karhunen-Loève,225,0.802
+Karhunen-Loève,226,0.8
+Karhunen-Loève,227,0.804
+Karhunen-Loève,228,0.798
+Karhunen-Loève,229,0.798
+Karhunen-Loève,230,0.798
+Karhunen-Loève,231,0.796
+Karhunen-Loève,232,0.798
+Karhunen-Loève,233,0.796
+Karhunen-Loève,234,0.798
+Karhunen-Loève,235,0.8
+Karhunen-Loève,236,0.798
+Karhunen-Loève,237,0.796
+Karhunen-Loève,238,0.8
+Karhunen-Loève,239,0.8
+Karhunen-Loève,240,0.802
+Karhunen-Loève,241,0.796
+Karhunen-Loève,242,0.796
+Karhunen-Loève,243,0.8
+Karhunen-Loève,244,0.796
+Karhunen-Loève,245,0.798
+Karhunen-Loève,246,0.798
+Karhunen-Loève,247,0.798
+Karhunen-Loève,248,0.788
+Karhunen-Loève,249,0.792
+Karhunen-Loève,250,0.794
+Karhunen-Loève,251,0.796
+Karhunen-Loève,252,0.792
+Karhunen-Loève,253,0.79
+Karhunen-Loève,254,0.79
+Karhunen-Loève,255,0.79
+Karhunen-Loève,256,0.792
+Karhunen-Loève,257,0.79
+Karhunen-Loève,258,0.79
+Karhunen-Loève,259,0.788
+Karhunen-Loève,260,0.794
+Karhunen-Loève,261,0.788
+Karhunen-Loève,262,0.79
+Karhunen-Loève,263,0.786
+Karhunen-Loève,264,0.782
+Karhunen-Loève,265,0.782
+Karhunen-Loève,266,0.782
+Karhunen-Loève,267,0.778
+Karhunen-Loève,268,0.776
+Karhunen-Loève,269,0.774
+Karhunen-Loève,270,0.774
+Karhunen-Loève,271,0.776
+Karhunen-Loève,272,0.776
+Karhunen-Loève,273,0.778
+Karhunen-Loève,274,0.78
+Karhunen-Loève,275,0.778
+Karhunen-Loève,276,0.78
+Karhunen-Loève,277,0.778
+Karhunen-Loève,278,0.78
+Karhunen-Loève,279,0.78
+Karhunen-Loève,280,0.78
+Karhunen-Loève,281,0.78
+Karhunen-Loève,282,0.778
+Karhunen-Loève,283,0.774
+Karhunen-Loève,284,0.776
+Karhunen-Loève,285,0.776
+Karhunen-Loève,286,0.776
+Karhunen-Loève,287,0.776
+Karhunen-Loève,288,0.776
+Karhunen-Loève,289,0.772
+Karhunen-Loève,290,0.772
+Karhunen-Loève,291,0.778
+Karhunen-Loève,292,0.776
+Karhunen-Loève,293,0.78
+Karhunen-Loève,294,0.776
+Karhunen-Loève,295,0.776
+Karhunen-Loève,296,0.778
+Karhunen-Loève,297,0.776
+Karhunen-Loève,298,0.776
+Karhunen-Loève,299,0.78
+Karhunen-Loève,300,0.776
+Karhunen-Loève,301,0.782
+Karhunen-Loève,302,0.778
+Karhunen-Loève,303,0.778
+Karhunen-Loève,304,0.776
+Karhunen-Loève,305,0.774
+Karhunen-Loève,306,0.772
+Karhunen-Loève,307,0.776
+Karhunen-Loève,308,0.776
+Karhunen-Loève,309,0.772
+Karhunen-Loève,310,0.774
+Karhunen-Loève,311,0.768
+Karhunen-Loève,312,0.768
+Karhunen-Loève,313,0.768
+Karhunen-Loève,314,0.766
+Karhunen-Loève,315,0.77
+Karhunen-Loève,316,0.768
+Karhunen-Loève,317,0.764
+Karhunen-Loève,318,0.762
+Karhunen-Loève,319,0.76
+Karhunen-Loève,320,0.762
+Karhunen-Loève,321,0.764
+Karhunen-Loève,322,0.764
+Karhunen-Loève,323,0.762
+Karhunen-Loève,324,0.764
+Karhunen-Loève,325,0.762
+Karhunen-Loève,326,0.764
+Karhunen-Loève,327,0.762
+Karhunen-Loève,328,0.762
+Karhunen-Loève,329,0.762
+Karhunen-Loève,330,0.762
+Karhunen-Loève,331,0.762
+Karhunen-Loève,332,0.762
+Karhunen-Loève,333,0.76
+Karhunen-Loève,334,0.766
+Karhunen-Loève,335,0.764
+Karhunen-Loève,336,0.764
+Karhunen-Loève,337,0.762
+Karhunen-Loève,338,0.762
+Karhunen-Loève,339,0.758
+Karhunen-Loève,340,0.762
+Karhunen-Loève,341,0.76
+Karhunen-Loève,342,0.76
+Karhunen-Loève,343,0.758
+Karhunen-Loève,344,0.758
+Karhunen-Loève,345,0.76
+Karhunen-Loève,346,0.762
+Karhunen-Loève,347,0.76
+Karhunen-Loève,348,0.762
+Karhunen-Loève,349,0.76
+Karhunen-Loève,350,0.76
+Karhunen-Loève,351,0.76
+Karhunen-Loève,352,0.756
+Karhunen-Loève,353,0.758
+Karhunen-Loève,354,0.76
+Karhunen-Loève,355,0.758
+Karhunen-Loève,356,0.76
+Karhunen-Loève,357,0.758
+Karhunen-Loève,358,0.758
+Karhunen-Loève,359,0.76
+Karhunen-Loève,360,0.758
+Karhunen-Loève,361,0.754
+Karhunen-Loève,362,0.756
+Karhunen-Loève,363,0.758
+Karhunen-Loève,364,0.758
+Karhunen-Loève,365,0.758
+Karhunen-Loève,366,0.758
+Karhunen-Loève,367,0.76
+Karhunen-Loève,368,0.76
+Karhunen-Loève,369,0.76
+Karhunen-Loève,370,0.76
+Karhunen-Loève,371,0.754
+Karhunen-Loève,372,0.756
+Karhunen-Loève,373,0.754
+Karhunen-Loève,374,0.756
+Karhunen-Loève,375,0.752
+Karhunen-Loève,376,0.75
+Karhunen-Loève,377,0.746
+Karhunen-Loève,378,0.75
+Karhunen-Loève,379,0.746
+Karhunen-Loève,380,0.742
+Karhunen-Loève,381,0.746
+Karhunen-Loève,382,0.746
+Karhunen-Loève,383,0.746
+Karhunen-Loève,384,0.75
+Karhunen-Loève,385,0.748
+Karhunen-Loève,386,0.746
+Karhunen-Loève,387,0.744
+Karhunen-Loève,388,0.744
+Karhunen-Loève,389,0.746
+Karhunen-Loève,390,0.748
+Karhunen-Loève,391,0.74
+Karhunen-Loève,392,0.736
+Karhunen-Loève,393,0.74
+Karhunen-Loève,394,0.736
+Karhunen-Loève,395,0.736
+Karhunen-Loève,396,0.736
+Karhunen-Loève,397,0.736
+Karhunen-Loève,398,0.738
+Karhunen-Loève,399,0.738
+Karhunen-Loève,400,0.74
+Karhunen-Loève,401,0.738
+Karhunen-Loève,402,0.738
+Karhunen-Loève,403,0.74
+Karhunen-Loève,404,0.74
+Karhunen-Loève,405,0.74
+Karhunen-Loève,406,0.738
+Karhunen-Loève,407,0.734
+Karhunen-Loève,408,0.734
+Karhunen-Loève,409,0.732
+Karhunen-Loève,410,0.736
+Karhunen-Loève,411,0.73
+Karhunen-Loève,412,0.736
+Karhunen-Loève,413,0.732
+Karhunen-Loève,414,0.732
+Karhunen-Loève,415,0.728
+Karhunen-Loève,416,0.732
+Karhunen-Loève,417,0.728
+Karhunen-Loève,418,0.728
+Karhunen-Loève,419,0.73
+Karhunen-Loève,420,0.73
+Karhunen-Loève,421,0.73
+Karhunen-Loève,422,0.734
+Karhunen-Loève,423,0.732
+Karhunen-Loève,424,0.732
+Karhunen-Loève,425,0.734
+Karhunen-Loève,426,0.73
+Karhunen-Loève,427,0.734
+Karhunen-Loève,428,0.732
+Karhunen-Loève,429,0.728
+Karhunen-Loève,430,0.732
+Karhunen-Loève,431,0.732
+Karhunen-Loève,432,0.732
+Karhunen-Loève,433,0.734
+Karhunen-Loève,434,0.73
+Karhunen-Loève,435,0.734
+Karhunen-Loève,436,0.73
+Karhunen-Loève,437,0.73
+Karhunen-Loève,438,0.732
+Karhunen-Loève,439,0.726
+Karhunen-Loève,440,0.724
+Karhunen-Loève,441,0.724
+Karhunen-Loève,442,0.726
+Karhunen-Loève,443,0.728
+Karhunen-Loève,444,0.73
+Karhunen-Loève,445,0.73
+Karhunen-Loève,446,0.724
+Karhunen-Loève,447,0.722
+Karhunen-Loève,448,0.722
+Karhunen-Loève,449,0.726
+Karhunen-Loève,450,0.728
+Karhunen-Loève,451,0.716
+Karhunen-Loève,452,0.724
+Karhunen-Loève,453,0.72
+Karhunen-Loève,454,0.724
+Karhunen-Loève,455,0.72
+Karhunen-Loève,456,0.716
+Karhunen-Loève,457,0.716
+Karhunen-Loève,458,0.718
+Karhunen-Loève,459,0.718
+Karhunen-Loève,460,0.718
+Karhunen-Loève,461,0.716
+Karhunen-Loève,462,0.716
+Karhunen-Loève,463,0.716
+Karhunen-Loève,464,0.718
+Karhunen-Loève,465,0.718
+Karhunen-Loève,466,0.718
+Karhunen-Loève,467,0.716
+Karhunen-Loève,468,0.714
+Karhunen-Loève,469,0.718
+Karhunen-Loève,470,0.712
+Karhunen-Loève,471,0.712
+Karhunen-Loève,472,0.712
+Karhunen-Loève,473,0.714
+Karhunen-Loève,474,0.714
+Karhunen-Loève,475,0.708
+Karhunen-Loève,476,0.708
+Karhunen-Loève,477,0.712
+Karhunen-Loève,478,0.702
+Karhunen-Loève,479,0.708
+Karhunen-Loève,480,0.7
+Karhunen-Loève,481,0.704
+Karhunen-Loève,482,0.7
+Karhunen-Loève,483,0.698
+Karhunen-Loève,484,0.698
+Karhunen-Loève,485,0.698
+Karhunen-Loève,486,0.702
+Karhunen-Loève,487,0.698
+Karhunen-Loève,488,0.704
+Karhunen-Loève,489,0.698
+Karhunen-Loève,490,0.702
+Karhunen-Loève,491,0.702
+Karhunen-Loève,492,0.712
+Karhunen-Loève,493,0.706
+Karhunen-Loève,494,0.698
+Karhunen-Loève,495,0.696
+Karhunen-Loève,496,0.708
+Karhunen-Loève,497,0.702
+Karhunen-Loève,498,0.696
+Karhunen-Loève,499,0.698
+Karhunen-Loève,500,0.698
+Pixels,1,0.978
+Pixels,2,0.97
+Pixels,3,0.978
+Pixels,4,0.986
+Pixels,5,0.984
+Pixels,6,0.978
+Pixels,7,0.982
+Pixels,8,0.978
+Pixels,9,0.982
+Pixels,10,0.974
+Pixels,11,0.978
+Pixels,12,0.98
+Pixels,13,0.972
+Pixels,14,0.974
+Pixels,15,0.972
+Pixels,16,0.972
+Pixels,17,0.972
+Pixels,18,0.974
+Pixels,19,0.976
+Pixels,20,0.97
+Pixels,21,0.972
+Pixels,22,0.968
+Pixels,23,0.968
+Pixels,24,0.966
+Pixels,25,0.968
+Pixels,26,0.964
+Pixels,27,0.962
+Pixels,28,0.962
+Pixels,29,0.964
+Pixels,30,0.964
+Pixels,31,0.962
+Pixels,32,0.96
+Pixels,33,0.96
+Pixels,34,0.96
+Pixels,35,0.954
+Pixels,36,0.958
+Pixels,37,0.958
+Pixels,38,0.956
+Pixels,39,0.958
+Pixels,40,0.956
+Pixels,41,0.958
+Pixels,42,0.958
+Pixels,43,0.956
+Pixels,44,0.952
+Pixels,45,0.952
+Pixels,46,0.954
+Pixels,47,0.954
+Pixels,48,0.948
+Pixels,49,0.952
+Pixels,50,0.948
+Pixels,51,0.944
+Pixels,52,0.944
+Pixels,53,0.946
+Pixels,54,0.948
+Pixels,55,0.948
+Pixels,56,0.948
+Pixels,57,0.946
+Pixels,58,0.946
+Pixels,59,0.946
+Pixels,60,0.944
+Pixels,61,0.944
+Pixels,62,0.946
+Pixels,63,0.946
+Pixels,64,0.946
+Pixels,65,0.946
+Pixels,66,0.946
+Pixels,67,0.942
+Pixels,68,0.942
+Pixels,69,0.942
+Pixels,70,0.946
+Pixels,71,0.948
+Pixels,72,0.942
+Pixels,73,0.94
+Pixels,74,0.938
+Pixels,75,0.94
+Pixels,76,0.936
+Pixels,77,0.934
+Pixels,78,0.936
+Pixels,79,0.932
+Pixels,80,0.934
+Pixels,81,0.936
+Pixels,82,0.934
+Pixels,83,0.934
+Pixels,84,0.934
+Pixels,85,0.934
+Pixels,86,0.934
+Pixels,87,0.93
+Pixels,88,0.928
+Pixels,89,0.928
+Pixels,90,0.924
+Pixels,91,0.928
+Pixels,92,0.926
+Pixels,93,0.924
+Pixels,94,0.926
+Pixels,95,0.926
+Pixels,96,0.924
+Pixels,97,0.924
+Pixels,98,0.926
+Pixels,99,0.922
+Pixels,100,0.92
+Pixels,101,0.922
+Pixels,102,0.922
+Pixels,103,0.922
+Pixels,104,0.924
+Pixels,105,0.924
+Pixels,106,0.922
+Pixels,107,0.922
+Pixels,108,0.918
+Pixels,109,0.924
+Pixels,110,0.922
+Pixels,111,0.924
+Pixels,112,0.92
+Pixels,113,0.918
+Pixels,114,0.914
+Pixels,115,0.916
+Pixels,116,0.914
+Pixels,117,0.914
+Pixels,118,0.908
+Pixels,119,0.914
+Pixels,120,0.912
+Pixels,121,0.912
+Pixels,122,0.91
+Pixels,123,0.914
+Pixels,124,0.91
+Pixels,125,0.91
+Pixels,126,0.91
+Pixels,127,0.91
+Pixels,128,0.91
+Pixels,129,0.91
+Pixels,130,0.91
+Pixels,131,0.912
+Pixels,132,0.91
+Pixels,133,0.91
+Pixels,134,0.916
+Pixels,135,0.912
+Pixels,136,0.912
+Pixels,137,0.91
+Pixels,138,0.91
+Pixels,139,0.914
+Pixels,140,0.91
+Pixels,141,0.91
+Pixels,142,0.91
+Pixels,143,0.91
+Pixels,144,0.91
+Pixels,145,0.906
+Pixels,146,0.908
+Pixels,147,0.91
+Pixels,148,0.914
+Pixels,149,0.912
+Pixels,150,0.906
+Pixels,151,0.908
+Pixels,152,0.91
+Pixels,153,0.904
+Pixels,154,0.906
+Pixels,155,0.91
+Pixels,156,0.908
+Pixels,157,0.906
+Pixels,158,0.902
+Pixels,159,0.902
+Pixels,160,0.904
+Pixels,161,0.902
+Pixels,162,0.904
+Pixels,163,0.902
+Pixels,164,0.902
+Pixels,165,0.9
+Pixels,166,0.9
+Pixels,167,0.9
+Pixels,168,0.9
+Pixels,169,0.902
+Pixels,170,0.9
+Pixels,171,0.9
+Pixels,172,0.904
+Pixels,173,0.9
+Pixels,174,0.898
+Pixels,175,0.9
+Pixels,176,0.898
+Pixels,177,0.898
+Pixels,178,0.9
+Pixels,179,0.898
+Pixels,180,0.898
+Pixels,181,0.896
+Pixels,182,0.898
+Pixels,183,0.896
+Pixels,184,0.896
+Pixels,185,0.9
+Pixels,186,0.9
+Pixels,187,0.896
+Pixels,188,0.898
+Pixels,189,0.896
+Pixels,190,0.894
+Pixels,191,0.892
+Pixels,192,0.894
+Pixels,193,0.892
+Pixels,194,0.892
+Pixels,195,0.892
+Pixels,196,0.894
+Pixels,197,0.892
+Pixels,198,0.892
+Pixels,199,0.89
+Pixels,200,0.892
+Pixels,201,0.896
+Pixels,202,0.89
+Pixels,203,0.886
+Pixels,204,0.89
+Pixels,205,0.886
+Pixels,206,0.89
+Pixels,207,0.886
+Pixels,208,0.892
+Pixels,209,0.888
+Pixels,210,0.89
+Pixels,211,0.892
+Pixels,212,0.888
+Pixels,213,0.89
+Pixels,214,0.89
+Pixels,215,0.89
+Pixels,216,0.888
+Pixels,217,0.892
+Pixels,218,0.892
+Pixels,219,0.888
+Pixels,220,0.888
+Pixels,221,0.888
+Pixels,222,0.888
+Pixels,223,0.888
+Pixels,224,0.888
+Pixels,225,0.888
+Pixels,226,0.888
+Pixels,227,0.886
+Pixels,228,0.888
+Pixels,229,0.888
+Pixels,230,0.888
+Pixels,231,0.89
+Pixels,232,0.886
+Pixels,233,0.89
+Pixels,234,0.888
+Pixels,235,0.892
+Pixels,236,0.892
+Pixels,237,0.89
+Pixels,238,0.89
+Pixels,239,0.888
+Pixels,240,0.89
+Pixels,241,0.888
+Pixels,242,0.888
+Pixels,243,0.89
+Pixels,244,0.89
+Pixels,245,0.888
+Pixels,246,0.888
+Pixels,247,0.89
+Pixels,248,0.89
+Pixels,249,0.89
+Pixels,250,0.888
+Pixels,251,0.886
+Pixels,252,0.884
+Pixels,253,0.886
+Pixels,254,0.884
+Pixels,255,0.888
+Pixels,256,0.888
+Pixels,257,0.884
+Pixels,258,0.882
+Pixels,259,0.884
+Pixels,260,0.884
+Pixels,261,0.882
+Pixels,262,0.884
+Pixels,263,0.884
+Pixels,264,0.882
+Pixels,265,0.884
+Pixels,266,0.878
+Pixels,267,0.88
+Pixels,268,0.882
+Pixels,269,0.872
+Pixels,270,0.88
+Pixels,271,0.872
+Pixels,272,0.876
+Pixels,273,0.876
+Pixels,274,0.876
+Pixels,275,0.878
+Pixels,276,0.878
+Pixels,277,0.878
+Pixels,278,0.878
+Pixels,279,0.88
+Pixels,280,0.876
+Pixels,281,0.876
+Pixels,282,0.874
+Pixels,283,0.874
+Pixels,284,0.874
+Pixels,285,0.872
+Pixels,286,0.874
+Pixels,287,0.872
+Pixels,288,0.872
+Pixels,289,0.872
+Pixels,290,0.87
+Pixels,291,0.872
+Pixels,292,0.87
+Pixels,293,0.874
+Pixels,294,0.868
+Pixels,295,0.868
+Pixels,296,0.868
+Pixels,297,0.868
+Pixels,298,0.876
+Pixels,299,0.874
+Pixels,300,0.874
+Pixels,301,0.87
+Pixels,302,0.872
+Pixels,303,0.874
+Pixels,304,0.872
+Pixels,305,0.87
+Pixels,306,0.866
+Pixels,307,0.868
+Pixels,308,0.868
+Pixels,309,0.868
+Pixels,310,0.864
+Pixels,311,0.866
+Pixels,312,0.866
+Pixels,313,0.87
+Pixels,314,0.868
+Pixels,315,0.868
+Pixels,316,0.862
+Pixels,317,0.866
+Pixels,318,0.866
+Pixels,319,0.868
+Pixels,320,0.868
+Pixels,321,0.868
+Pixels,322,0.866
+Pixels,323,0.866
+Pixels,324,0.866
+Pixels,325,0.866
+Pixels,326,0.866
+Pixels,327,0.864
+Pixels,328,0.866
+Pixels,329,0.866
+Pixels,330,0.866
+Pixels,331,0.864
+Pixels,332,0.862
+Pixels,333,0.86
+Pixels,334,0.86
+Pixels,335,0.864
+Pixels,336,0.864
+Pixels,337,0.866
+Pixels,338,0.866
+Pixels,339,0.866
+Pixels,340,0.862
+Pixels,341,0.864
+Pixels,342,0.864
+Pixels,343,0.858
+Pixels,344,0.86
+Pixels,345,0.858
+Pixels,346,0.86
+Pixels,347,0.864
+Pixels,348,0.858
+Pixels,349,0.856
+Pixels,350,0.86
+Pixels,351,0.858
+Pixels,352,0.86
+Pixels,353,0.86
+Pixels,354,0.86
+Pixels,355,0.858
+Pixels,356,0.858
+Pixels,357,0.858
+Pixels,358,0.854
+Pixels,359,0.858
+Pixels,360,0.858
+Pixels,361,0.854
+Pixels,362,0.858
+Pixels,363,0.856
+Pixels,364,0.858
+Pixels,365,0.858
+Pixels,366,0.862
+Pixels,367,0.862
+Pixels,368,0.862
+Pixels,369,0.862
+Pixels,370,0.862
+Pixels,371,0.858
+Pixels,372,0.86
+Pixels,373,0.858
+Pixels,374,0.856
+Pixels,375,0.854
+Pixels,376,0.854
+Pixels,377,0.852
+Pixels,378,0.854
+Pixels,379,0.852
+Pixels,380,0.856
+Pixels,381,0.852
+Pixels,382,0.852
+Pixels,383,0.856
+Pixels,384,0.852
+Pixels,385,0.854
+Pixels,386,0.85
+Pixels,387,0.85
+Pixels,388,0.848
+Pixels,389,0.856
+Pixels,390,0.848
+Pixels,391,0.85
+Pixels,392,0.85
+Pixels,393,0.85
+Pixels,394,0.848
+Pixels,395,0.85
+Pixels,396,0.848
+Pixels,397,0.852
+Pixels,398,0.854
+Pixels,399,0.848
+Pixels,400,0.848
+Pixels,401,0.846
+Pixels,402,0.846
+Pixels,403,0.846
+Pixels,404,0.846
+Pixels,405,0.844
+Pixels,406,0.846
+Pixels,407,0.844
+Pixels,408,0.854
+Pixels,409,0.844
+Pixels,410,0.85
+Pixels,411,0.848
+Pixels,412,0.846
+Pixels,413,0.846
+Pixels,414,0.846
+Pixels,415,0.85
+Pixels,416,0.848
+Pixels,417,0.846
+Pixels,418,0.842
+Pixels,419,0.846
+Pixels,420,0.842
+Pixels,421,0.84
+Pixels,422,0.84
+Pixels,423,0.84
+Pixels,424,0.838
+Pixels,425,0.84
+Pixels,426,0.844
+Pixels,427,0.838
+Pixels,428,0.838
+Pixels,429,0.838
+Pixels,430,0.836
+Pixels,431,0.84
+Pixels,432,0.838
+Pixels,433,0.834
+Pixels,434,0.838
+Pixels,435,0.834
+Pixels,436,0.834
+Pixels,437,0.834
+Pixels,438,0.834
+Pixels,439,0.834
+Pixels,440,0.832
+Pixels,441,0.83
+Pixels,442,0.832
+Pixels,443,0.828
+Pixels,444,0.826
+Pixels,445,0.822
+Pixels,446,0.826
+Pixels,447,0.824
+Pixels,448,0.826
+Pixels,449,0.828
+Pixels,450,0.824
+Pixels,451,0.826
+Pixels,452,0.82
+Pixels,453,0.824
+Pixels,454,0.82
+Pixels,455,0.82
+Pixels,456,0.82
+Pixels,457,0.822
+Pixels,458,0.822
+Pixels,459,0.822
+Pixels,460,0.822
+Pixels,461,0.818
+Pixels,462,0.824
+Pixels,463,0.822
+Pixels,464,0.82
+Pixels,465,0.818
+Pixels,466,0.822
+Pixels,467,0.826
+Pixels,468,0.822
+Pixels,469,0.822
+Pixels,470,0.824
+Pixels,471,0.824
+Pixels,472,0.822
+Pixels,473,0.822
+Pixels,474,0.824
+Pixels,475,0.826
+Pixels,476,0.824
+Pixels,477,0.824
+Pixels,478,0.824
+Pixels,479,0.826
+Pixels,480,0.822
+Pixels,481,0.824
+Pixels,482,0.826
+Pixels,483,0.822
+Pixels,484,0.822
+Pixels,485,0.82
+Pixels,486,0.822
+Pixels,487,0.822
+Pixels,488,0.822
+Pixels,489,0.822
+Pixels,490,0.824
+Pixels,491,0.824
+Pixels,492,0.82
+Pixels,493,0.822
+Pixels,494,0.816
+Pixels,495,0.818
+Pixels,496,0.818
+Pixels,497,0.818
+Pixels,498,0.822
+Pixels,499,0.818
+Pixels,500,0.818
+Moments de Zernike,1,0.778
+Moments de Zernike,2,0.79
+Moments de Zernike,3,0.792
+Moments de Zernike,4,0.786
+Moments de Zernike,5,0.794
+Moments de Zernike,6,0.8
+Moments de Zernike,7,0.802
+Moments de Zernike,8,0.802
+Moments de Zernike,9,0.802
+Moments de Zernike,10,0.804
+Moments de Zernike,11,0.804
+Moments de Zernike,12,0.798
+Moments de Zernike,13,0.79
+Moments de Zernike,14,0.794
+Moments de Zernike,15,0.788
+Moments de Zernike,16,0.788
+Moments de Zernike,17,0.79
+Moments de Zernike,18,0.788
+Moments de Zernike,19,0.796
+Moments de Zernike,20,0.78
+Moments de Zernike,21,0.794
+Moments de Zernike,22,0.794
+Moments de Zernike,23,0.796
+Moments de Zernike,24,0.8
+Moments de Zernike,25,0.802
+Moments de Zernike,26,0.798
+Moments de Zernike,27,0.786
+Moments de Zernike,28,0.774
+Moments de Zernike,29,0.782
+Moments de Zernike,30,0.776
+Moments de Zernike,31,0.788
+Moments de Zernike,32,0.784
+Moments de Zernike,33,0.778
+Moments de Zernike,34,0.774
+Moments de Zernike,35,0.768
+Moments de Zernike,36,0.766
+Moments de Zernike,37,0.774
+Moments de Zernike,38,0.764
+Moments de Zernike,39,0.77
+Moments de Zernike,40,0.762
+Moments de Zernike,41,0.758
+Moments de Zernike,42,0.752
+Moments de Zernike,43,0.75
+Moments de Zernike,44,0.75
+Moments de Zernike,45,0.746
+Moments de Zernike,46,0.754
+Moments de Zernike,47,0.75
+Moments de Zernike,48,0.748
+Moments de Zernike,49,0.748
+Moments de Zernike,50,0.74
+Moments de Zernike,51,0.744
+Moments de Zernike,52,0.75
+Moments de Zernike,53,0.754
+Moments de Zernike,54,0.744
+Moments de Zernike,55,0.748
+Moments de Zernike,56,0.746
+Moments de Zernike,57,0.746
+Moments de Zernike,58,0.746
+Moments de Zernike,59,0.748
+Moments de Zernike,60,0.756
+Moments de Zernike,61,0.748
+Moments de Zernike,62,0.752
+Moments de Zernike,63,0.754
+Moments de Zernike,64,0.75
+Moments de Zernike,65,0.746
+Moments de Zernike,66,0.748
+Moments de Zernike,67,0.746
+Moments de Zernike,68,0.75
+Moments de Zernike,69,0.744
+Moments de Zernike,70,0.746
+Moments de Zernike,71,0.752
+Moments de Zernike,72,0.748
+Moments de Zernike,73,0.75
+Moments de Zernike,74,0.742
+Moments de Zernike,75,0.75
+Moments de Zernike,76,0.748
+Moments de Zernike,77,0.752
+Moments de Zernike,78,0.76
+Moments de Zernike,79,0.756
+Moments de Zernike,80,0.766
+Moments de Zernike,81,0.756
+Moments de Zernike,82,0.756
+Moments de Zernike,83,0.752
+Moments de Zernike,84,0.746
+Moments de Zernike,85,0.754
+Moments de Zernike,86,0.75
+Moments de Zernike,87,0.756
+Moments de Zernike,88,0.754
+Moments de Zernike,89,0.75
+Moments de Zernike,90,0.754
+Moments de Zernike,91,0.748
+Moments de Zernike,92,0.744
+Moments de Zernike,93,0.75
+Moments de Zernike,94,0.746
+Moments de Zernike,95,0.748
+Moments de Zernike,96,0.744
+Moments de Zernike,97,0.75
+Moments de Zernike,98,0.748
+Moments de Zernike,99,0.748
+Moments de Zernike,100,0.75
+Moments de Zernike,101,0.748
+Moments de Zernike,102,0.754
+Moments de Zernike,103,0.752
+Moments de Zernike,104,0.752
+Moments de Zernike,105,0.748
+Moments de Zernike,106,0.744
+Moments de Zernike,107,0.744
+Moments de Zernike,108,0.742
+Moments de Zernike,109,0.746
+Moments de Zernike,110,0.746
+Moments de Zernike,111,0.746
+Moments de Zernike,112,0.746
+Moments de Zernike,113,0.746
+Moments de Zernike,114,0.748
+Moments de Zernike,115,0.746
+Moments de Zernike,116,0.752
+Moments de Zernike,117,0.744
+Moments de Zernike,118,0.742
+Moments de Zernike,119,0.738
+Moments de Zernike,120,0.738
+Moments de Zernike,121,0.742
+Moments de Zernike,122,0.74
+Moments de Zernike,123,0.746
+Moments de Zernike,124,0.74
+Moments de Zernike,125,0.744
+Moments de Zernike,126,0.742
+Moments de Zernike,127,0.74
+Moments de Zernike,128,0.742
+Moments de Zernike,129,0.74
+Moments de Zernike,130,0.742
+Moments de Zernike,131,0.744
+Moments de Zernike,132,0.744
+Moments de Zernike,133,0.74
+Moments de Zernike,134,0.736
+Moments de Zernike,135,0.74
+Moments de Zernike,136,0.742
+Moments de Zernike,137,0.736
+Moments de Zernike,138,0.736
+Moments de Zernike,139,0.736
+Moments de Zernike,140,0.732
+Moments de Zernike,141,0.73
+Moments de Zernike,142,0.734
+Moments de Zernike,143,0.73
+Moments de Zernike,144,0.742
+Moments de Zernike,145,0.738
+Moments de Zernike,146,0.736
+Moments de Zernike,147,0.742
+Moments de Zernike,148,0.734
+Moments de Zernike,149,0.734
+Moments de Zernike,150,0.738
+Moments de Zernike,151,0.738
+Moments de Zernike,152,0.736
+Moments de Zernike,153,0.73
+Moments de Zernike,154,0.734
+Moments de Zernike,155,0.728
+Moments de Zernike,156,0.732
+Moments de Zernike,157,0.726
+Moments de Zernike,158,0.728
+Moments de Zernike,159,0.724
+Moments de Zernike,160,0.728
+Moments de Zernike,161,0.728
+Moments de Zernike,162,0.728
+Moments de Zernike,163,0.728
+Moments de Zernike,164,0.732
+Moments de Zernike,165,0.736
+Moments de Zernike,166,0.728
+Moments de Zernike,167,0.726
+Moments de Zernike,168,0.732
+Moments de Zernike,169,0.73
+Moments de Zernike,170,0.73
+Moments de Zernike,171,0.73
+Moments de Zernike,172,0.728
+Moments de Zernike,173,0.724
+Moments de Zernike,174,0.728
+Moments de Zernike,175,0.73
+Moments de Zernike,176,0.728
+Moments de Zernike,177,0.724
+Moments de Zernike,178,0.724
+Moments de Zernike,179,0.728
+Moments de Zernike,180,0.724
+Moments de Zernike,181,0.724
+Moments de Zernike,182,0.726
+Moments de Zernike,183,0.72
+Moments de Zernike,184,0.724
+Moments de Zernike,185,0.724
+Moments de Zernike,186,0.716
+Moments de Zernike,187,0.72
+Moments de Zernike,188,0.724
+Moments de Zernike,189,0.726
+Moments de Zernike,190,0.722
+Moments de Zernike,191,0.722
+Moments de Zernike,192,0.722
+Moments de Zernike,193,0.722
+Moments de Zernike,194,0.722
+Moments de Zernike,195,0.726
+Moments de Zernike,196,0.72
+Moments de Zernike,197,0.724
+Moments de Zernike,198,0.716
+Moments de Zernike,199,0.728
+Moments de Zernike,200,0.722
+Moments de Zernike,201,0.724
+Moments de Zernike,202,0.724
+Moments de Zernike,203,0.716
+Moments de Zernike,204,0.72
+Moments de Zernike,205,0.726
+Moments de Zernike,206,0.722
+Moments de Zernike,207,0.718
+Moments de Zernike,208,0.72
+Moments de Zernike,209,0.718
+Moments de Zernike,210,0.722
+Moments de Zernike,211,0.724
+Moments de Zernike,212,0.722
+Moments de Zernike,213,0.722
+Moments de Zernike,214,0.72
+Moments de Zernike,215,0.722
+Moments de Zernike,216,0.726
+Moments de Zernike,217,0.726
+Moments de Zernike,218,0.726
+Moments de Zernike,219,0.726
+Moments de Zernike,220,0.726
+Moments de Zernike,221,0.726
+Moments de Zernike,222,0.726
+Moments de Zernike,223,0.726
+Moments de Zernike,224,0.726
+Moments de Zernike,225,0.726
+Moments de Zernike,226,0.732
+Moments de Zernike,227,0.728
+Moments de Zernike,228,0.726
+Moments de Zernike,229,0.716
+Moments de Zernike,230,0.718
+Moments de Zernike,231,0.722
+Moments de Zernike,232,0.724
+Moments de Zernike,233,0.724
+Moments de Zernike,234,0.726
+Moments de Zernike,235,0.724
+Moments de Zernike,236,0.722
+Moments de Zernike,237,0.718
+Moments de Zernike,238,0.716
+Moments de Zernike,239,0.722
+Moments de Zernike,240,0.716
+Moments de Zernike,241,0.714
+Moments de Zernike,242,0.72
+Moments de Zernike,243,0.724
+Moments de Zernike,244,0.722
+Moments de Zernike,245,0.718
+Moments de Zernike,246,0.718
+Moments de Zernike,247,0.716
+Moments de Zernike,248,0.71
+Moments de Zernike,249,0.714
+Moments de Zernike,250,0.712
+Moments de Zernike,251,0.716
+Moments de Zernike,252,0.71
+Moments de Zernike,253,0.716
+Moments de Zernike,254,0.718
+Moments de Zernike,255,0.722
+Moments de Zernike,256,0.718
+Moments de Zernike,257,0.718
+Moments de Zernike,258,0.718
+Moments de Zernike,259,0.72
+Moments de Zernike,260,0.716
+Moments de Zernike,261,0.718
+Moments de Zernike,262,0.712
+Moments de Zernike,263,0.71
+Moments de Zernike,264,0.714
+Moments de Zernike,265,0.71
+Moments de Zernike,266,0.714
+Moments de Zernike,267,0.706
+Moments de Zernike,268,0.716
+Moments de Zernike,269,0.712
+Moments de Zernike,270,0.7
+Moments de Zernike,271,0.704
+Moments de Zernike,272,0.706
+Moments de Zernike,273,0.7
+Moments de Zernike,274,0.7
+Moments de Zernike,275,0.702
+Moments de Zernike,276,0.704
+Moments de Zernike,277,0.7
+Moments de Zernike,278,0.698
+Moments de Zernike,279,0.698
+Moments de Zernike,280,0.702
+Moments de Zernike,281,0.7
+Moments de Zernike,282,0.702
+Moments de Zernike,283,0.702
+Moments de Zernike,284,0.704
+Moments de Zernike,285,0.704
+Moments de Zernike,286,0.694
+Moments de Zernike,287,0.694
+Moments de Zernike,288,0.692
+Moments de Zernike,289,0.696
+Moments de Zernike,290,0.696
+Moments de Zernike,291,0.698
+Moments de Zernike,292,0.694
+Moments de Zernike,293,0.698
+Moments de Zernike,294,0.694
+Moments de Zernike,295,0.694
+Moments de Zernike,296,0.694
+Moments de Zernike,297,0.692
+Moments de Zernike,298,0.688
+Moments de Zernike,299,0.694
+Moments de Zernike,300,0.696
+Moments de Zernike,301,0.694
+Moments de Zernike,302,0.698
+Moments de Zernike,303,0.694
+Moments de Zernike,304,0.692
+Moments de Zernike,305,0.686
+Moments de Zernike,306,0.692
+Moments de Zernike,307,0.694
+Moments de Zernike,308,0.688
+Moments de Zernike,309,0.686
+Moments de Zernike,310,0.682
+Moments de Zernike,311,0.684
+Moments de Zernike,312,0.686
+Moments de Zernike,313,0.684
+Moments de Zernike,314,0.682
+Moments de Zernike,315,0.682
+Moments de Zernike,316,0.682
+Moments de Zernike,317,0.682
+Moments de Zernike,318,0.686
+Moments de Zernike,319,0.682
+Moments de Zernike,320,0.682
+Moments de Zernike,321,0.682
+Moments de Zernike,322,0.688
+Moments de Zernike,323,0.69
+Moments de Zernike,324,0.684
+Moments de Zernike,325,0.68
+Moments de Zernike,326,0.688
+Moments de Zernike,327,0.678
+Moments de Zernike,328,0.68
+Moments de Zernike,329,0.682
+Moments de Zernike,330,0.682
+Moments de Zernike,331,0.688
+Moments de Zernike,332,0.688
+Moments de Zernike,333,0.678
+Moments de Zernike,334,0.682
+Moments de Zernike,335,0.682
+Moments de Zernike,336,0.682
+Moments de Zernike,337,0.68
+Moments de Zernike,338,0.674
+Moments de Zernike,339,0.684
+Moments de Zernike,340,0.682
+Moments de Zernike,341,0.682
+Moments de Zernike,342,0.68
+Moments de Zernike,343,0.684
+Moments de Zernike,344,0.676
+Moments de Zernike,345,0.678
+Moments de Zernike,346,0.682
+Moments de Zernike,347,0.678
+Moments de Zernike,348,0.676
+Moments de Zernike,349,0.672
+Moments de Zernike,350,0.676
+Moments de Zernike,351,0.678
+Moments de Zernike,352,0.672
+Moments de Zernike,353,0.672
+Moments de Zernike,354,0.682
+Moments de Zernike,355,0.672
+Moments de Zernike,356,0.678
+Moments de Zernike,357,0.67
+Moments de Zernike,358,0.672
+Moments de Zernike,359,0.67
+Moments de Zernike,360,0.672
+Moments de Zernike,361,0.668
+Moments de Zernike,362,0.672
+Moments de Zernike,363,0.672
+Moments de Zernike,364,0.664
+Moments de Zernike,365,0.668
+Moments de Zernike,366,0.664
+Moments de Zernike,367,0.664
+Moments de Zernike,368,0.66
+Moments de Zernike,369,0.66
+Moments de Zernike,370,0.658
+Moments de Zernike,371,0.66
+Moments de Zernike,372,0.658
+Moments de Zernike,373,0.654
+Moments de Zernike,374,0.658
+Moments de Zernike,375,0.66
+Moments de Zernike,376,0.658
+Moments de Zernike,377,0.658
+Moments de Zernike,378,0.654
+Moments de Zernike,379,0.652
+Moments de Zernike,380,0.646
+Moments de Zernike,381,0.658
+Moments de Zernike,382,0.65
+Moments de Zernike,383,0.65
+Moments de Zernike,384,0.652
+Moments de Zernike,385,0.65
+Moments de Zernike,386,0.654
+Moments de Zernike,387,0.654
+Moments de Zernike,388,0.648
+Moments de Zernike,389,0.652
+Moments de Zernike,390,0.646
+Moments de Zernike,391,0.646
+Moments de Zernike,392,0.65
+Moments de Zernike,393,0.648
+Moments de Zernike,394,0.644
+Moments de Zernike,395,0.646
+Moments de Zernike,396,0.648
+Moments de Zernike,397,0.646
+Moments de Zernike,398,0.65
+Moments de Zernike,399,0.654
+Moments de Zernike,400,0.656
+Moments de Zernike,401,0.658
+Moments de Zernike,402,0.648
+Moments de Zernike,403,0.658
+Moments de Zernike,404,0.658
+Moments de Zernike,405,0.662
+Moments de Zernike,406,0.658
+Moments de Zernike,407,0.654
+Moments de Zernike,408,0.656
+Moments de Zernike,409,0.648
+Moments de Zernike,410,0.65
+Moments de Zernike,411,0.658
+Moments de Zernike,412,0.652
+Moments de Zernike,413,0.65
+Moments de Zernike,414,0.648
+Moments de Zernike,415,0.65
+Moments de Zernike,416,0.642
+Moments de Zernike,417,0.646
+Moments de Zernike,418,0.654
+Moments de Zernike,419,0.652
+Moments de Zernike,420,0.646
+Moments de Zernike,421,0.642
+Moments de Zernike,422,0.65
+Moments de Zernike,423,0.644
+Moments de Zernike,424,0.646
+Moments de Zernike,425,0.636
+Moments de Zernike,426,0.646
+Moments de Zernike,427,0.646
+Moments de Zernike,428,0.642
+Moments de Zernike,429,0.648
+Moments de Zernike,430,0.642
+Moments de Zernike,431,0.634
+Moments de Zernike,432,0.646
+Moments de Zernike,433,0.634
+Moments de Zernike,434,0.628
+Moments de Zernike,435,0.64
+Moments de Zernike,436,0.638
+Moments de Zernike,437,0.626
+Moments de Zernike,438,0.626
+Moments de Zernike,439,0.63
+Moments de Zernike,440,0.63
+Moments de Zernike,441,0.626
+Moments de Zernike,442,0.628
+Moments de Zernike,443,0.626
+Moments de Zernike,444,0.63
+Moments de Zernike,445,0.632
+Moments de Zernike,446,0.628
+Moments de Zernike,447,0.626
+Moments de Zernike,448,0.628
+Moments de Zernike,449,0.626
+Moments de Zernike,450,0.628
+Moments de Zernike,451,0.634
+Moments de Zernike,452,0.626
+Moments de Zernike,453,0.622
+Moments de Zernike,454,0.628
+Moments de Zernike,455,0.624
+Moments de Zernike,456,0.622
+Moments de Zernike,457,0.618
+Moments de Zernike,458,0.618
+Moments de Zernike,459,0.624
+Moments de Zernike,460,0.622
+Moments de Zernike,461,0.618
+Moments de Zernike,462,0.616
+Moments de Zernike,463,0.614
+Moments de Zernike,464,0.612
+Moments de Zernike,465,0.618
+Moments de Zernike,466,0.612
+Moments de Zernike,467,0.62
+Moments de Zernike,468,0.616
+Moments de Zernike,469,0.612
+Moments de Zernike,470,0.61
+Moments de Zernike,471,0.616
+Moments de Zernike,472,0.614
+Moments de Zernike,473,0.606
+Moments de Zernike,474,0.612
+Moments de Zernike,475,0.618
+Moments de Zernike,476,0.618
+Moments de Zernike,477,0.614
+Moments de Zernike,478,0.612
+Moments de Zernike,479,0.612
+Moments de Zernike,480,0.618
+Moments de Zernike,481,0.614
+Moments de Zernike,482,0.614
+Moments de Zernike,483,0.622
+Moments de Zernike,484,0.616
+Moments de Zernike,485,0.612
+Moments de Zernike,486,0.618
+Moments de Zernike,487,0.612
+Moments de Zernike,488,0.612
+Moments de Zernike,489,0.62
+Moments de Zernike,490,0.614
+Moments de Zernike,491,0.618
+Moments de Zernike,492,0.62
+Moments de Zernike,493,0.622
+Moments de Zernike,494,0.62
+Moments de Zernike,495,0.618
+Moments de Zernike,496,0.618
+Moments de Zernike,497,0.618
+Moments de Zernike,498,0.622
+Moments de Zernike,499,0.62
+Moments de Zernike,500,0.62
+Tous,1,0.982
+Tous,2,0.976
+Tous,3,0.984
+Tous,4,0.98
+Tous,5,0.982
+Tous,6,0.98
+Tous,7,0.98
+Tous,8,0.978
+Tous,9,0.978
+Tous,10,0.978
+Tous,11,0.976
+Tous,12,0.976
+Tous,13,0.98
+Tous,14,0.978
+Tous,15,0.978
+Tous,16,0.976
+Tous,17,0.98
+Tous,18,0.978
+Tous,19,0.976
+Tous,20,0.976
+Tous,21,0.976
+Tous,22,0.974
+Tous,23,0.976
+Tous,24,0.974
+Tous,25,0.97
+Tous,26,0.972
+Tous,27,0.972
+Tous,28,0.966
+Tous,29,0.968
+Tous,30,0.968
+Tous,31,0.964
+Tous,32,0.966
+Tous,33,0.964
+Tous,34,0.96
+Tous,35,0.958
+Tous,36,0.956
+Tous,37,0.954
+Tous,38,0.958
+Tous,39,0.956
+Tous,40,0.954
+Tous,41,0.954
+Tous,42,0.954
+Tous,43,0.956
+Tous,44,0.956
+Tous,45,0.954
+Tous,46,0.956
+Tous,47,0.954
+Tous,48,0.952
+Tous,49,0.952
+Tous,50,0.954
+Tous,51,0.954
+Tous,52,0.954
+Tous,53,0.954
+Tous,54,0.954
+Tous,55,0.954
+Tous,56,0.956
+Tous,57,0.954
+Tous,58,0.954
+Tous,59,0.954
+Tous,60,0.952
+Tous,61,0.952
+Tous,62,0.952
+Tous,63,0.952
+Tous,64,0.952
+Tous,65,0.954
+Tous,66,0.952
+Tous,67,0.952
+Tous,68,0.952
+Tous,69,0.95
+Tous,70,0.95
+Tous,71,0.948
+Tous,72,0.948
+Tous,73,0.946
+Tous,74,0.948
+Tous,75,0.942
+Tous,76,0.942
+Tous,77,0.942
+Tous,78,0.944
+Tous,79,0.944
+Tous,80,0.942
+Tous,81,0.944
+Tous,82,0.944
+Tous,83,0.944
+Tous,84,0.946
+Tous,85,0.944
+Tous,86,0.944
+Tous,87,0.944
+Tous,88,0.944
+Tous,89,0.944
+Tous,90,0.946
+Tous,91,0.944
+Tous,92,0.944
+Tous,93,0.944
+Tous,94,0.944
+Tous,95,0.942
+Tous,96,0.944
+Tous,97,0.94
+Tous,98,0.942
+Tous,99,0.944
+Tous,100,0.944
+Tous,101,0.944
+Tous,102,0.944
+Tous,103,0.944
+Tous,104,0.944
+Tous,105,0.938
+Tous,106,0.94
+Tous,107,0.938
+Tous,108,0.938
+Tous,109,0.938
+Tous,110,0.938
+Tous,111,0.936
+Tous,112,0.934
+Tous,113,0.936
+Tous,114,0.936
+Tous,115,0.936
+Tous,116,0.936
+Tous,117,0.938
+Tous,118,0.938
+Tous,119,0.936
+Tous,120,0.936
+Tous,121,0.936
+Tous,122,0.934
+Tous,123,0.932
+Tous,124,0.934
+Tous,125,0.934
+Tous,126,0.938
+Tous,127,0.934
+Tous,128,0.934
+Tous,129,0.934
+Tous,130,0.934
+Tous,131,0.938
+Tous,132,0.934
+Tous,133,0.934
+Tous,134,0.932
+Tous,135,0.932
+Tous,136,0.93
+Tous,137,0.926
+Tous,138,0.926
+Tous,139,0.926
+Tous,140,0.926
+Tous,141,0.926
+Tous,142,0.926
+Tous,143,0.928
+Tous,144,0.93
+Tous,145,0.932
+Tous,146,0.932
+Tous,147,0.932
+Tous,148,0.932
+Tous,149,0.934
+Tous,150,0.934
+Tous,151,0.932
+Tous,152,0.932
+Tous,153,0.932
+Tous,154,0.932
+Tous,155,0.932
+Tous,156,0.928
+Tous,157,0.928
+Tous,158,0.928
+Tous,159,0.926
+Tous,160,0.926
+Tous,161,0.924
+Tous,162,0.924
+Tous,163,0.924
+Tous,164,0.924
+Tous,165,0.924
+Tous,166,0.922
+Tous,167,0.922
+Tous,168,0.92
+Tous,169,0.92
+Tous,170,0.922
+Tous,171,0.922
+Tous,172,0.918
+Tous,173,0.92
+Tous,174,0.918
+Tous,175,0.918
+Tous,176,0.916
+Tous,177,0.918
+Tous,178,0.918
+Tous,179,0.916
+Tous,180,0.914
+Tous,181,0.914
+Tous,182,0.912
+Tous,183,0.912
+Tous,184,0.912
+Tous,185,0.912
+Tous,186,0.914
+Tous,187,0.914
+Tous,188,0.912
+Tous,189,0.916
+Tous,190,0.912
+Tous,191,0.914
+Tous,192,0.914
+Tous,193,0.914
+Tous,194,0.914
+Tous,195,0.912
+Tous,196,0.912
+Tous,197,0.914
+Tous,198,0.914
+Tous,199,0.914
+Tous,200,0.914
+Tous,201,0.914
+Tous,202,0.914
+Tous,203,0.914
+Tous,204,0.914
+Tous,205,0.914
+Tous,206,0.914
+Tous,207,0.914
+Tous,208,0.912
+Tous,209,0.914
+Tous,210,0.914
+Tous,211,0.914
+Tous,212,0.912
+Tous,213,0.91
+Tous,214,0.91
+Tous,215,0.91
+Tous,216,0.91
+Tous,217,0.908
+Tous,218,0.908
+Tous,219,0.906
+Tous,220,0.906
+Tous,221,0.908
+Tous,222,0.906
+Tous,223,0.906
+Tous,224,0.904
+Tous,225,0.904
+Tous,226,0.902
+Tous,227,0.906
+Tous,228,0.906
+Tous,229,0.904
+Tous,230,0.906
+Tous,231,0.906
+Tous,232,0.902
+Tous,233,0.904
+Tous,234,0.904
+Tous,235,0.902
+Tous,236,0.904
+Tous,237,0.902
+Tous,238,0.906
+Tous,239,0.902
+Tous,240,0.902
+Tous,241,0.904
+Tous,242,0.904
+Tous,243,0.904
+Tous,244,0.904
+Tous,245,0.898
+Tous,246,0.904
+Tous,247,0.902
+Tous,248,0.9
+Tous,249,0.896
+Tous,250,0.9
+Tous,251,0.9
+Tous,252,0.896
+Tous,253,0.898
+Tous,254,0.896
+Tous,255,0.896
+Tous,256,0.896
+Tous,257,0.896
+Tous,258,0.894
+Tous,259,0.894
+Tous,260,0.894
+Tous,261,0.898
+Tous,262,0.898
+Tous,263,0.9
+Tous,264,0.9
+Tous,265,0.898
+Tous,266,0.898
+Tous,267,0.894
+Tous,268,0.894
+Tous,269,0.892
+Tous,270,0.892
+Tous,271,0.888
+Tous,272,0.886
+Tous,273,0.886
+Tous,274,0.886
+Tous,275,0.882
+Tous,276,0.886
+Tous,277,0.888
+Tous,278,0.89
+Tous,279,0.888
+Tous,280,0.888
+Tous,281,0.886
+Tous,282,0.882
+Tous,283,0.88
+Tous,284,0.886
+Tous,285,0.886
+Tous,286,0.884
+Tous,287,0.884
+Tous,288,0.882
+Tous,289,0.882
+Tous,290,0.884
+Tous,291,0.884
+Tous,292,0.886
+Tous,293,0.878
+Tous,294,0.88
+Tous,295,0.876
+Tous,296,0.88
+Tous,297,0.878
+Tous,298,0.88
+Tous,299,0.876
+Tous,300,0.878
+Tous,301,0.878
+Tous,302,0.876
+Tous,303,0.878
+Tous,304,0.878
+Tous,305,0.876
+Tous,306,0.87
+Tous,307,0.87
+Tous,308,0.87
+Tous,309,0.866
+Tous,310,0.866
+Tous,311,0.866
+Tous,312,0.866
+Tous,313,0.868
+Tous,314,0.868
+Tous,315,0.868
+Tous,316,0.868
+Tous,317,0.864
+Tous,318,0.87
+Tous,319,0.864
+Tous,320,0.864
+Tous,321,0.866
+Tous,322,0.868
+Tous,323,0.868
+Tous,324,0.864
+Tous,325,0.864
+Tous,326,0.868
+Tous,327,0.864
+Tous,328,0.862
+Tous,329,0.856
+Tous,330,0.854
+Tous,331,0.858
+Tous,332,0.856
+Tous,333,0.858
+Tous,334,0.852
+Tous,335,0.852
+Tous,336,0.856
+Tous,337,0.856
+Tous,338,0.852
+Tous,339,0.848
+Tous,340,0.846
+Tous,341,0.848
+Tous,342,0.85
+Tous,343,0.85
+Tous,344,0.85
+Tous,345,0.848
+Tous,346,0.846
+Tous,347,0.848
+Tous,348,0.846
+Tous,349,0.846
+Tous,350,0.844
+Tous,351,0.844
+Tous,352,0.844
+Tous,353,0.838
+Tous,354,0.842
+Tous,355,0.842
+Tous,356,0.84
+Tous,357,0.842
+Tous,358,0.834
+Tous,359,0.838
+Tous,360,0.834
+Tous,361,0.836
+Tous,362,0.832
+Tous,363,0.836
+Tous,364,0.832
+Tous,365,0.832
+Tous,366,0.832
+Tous,367,0.838
+Tous,368,0.832
+Tous,369,0.828
+Tous,370,0.826
+Tous,371,0.826
+Tous,372,0.824
+Tous,373,0.828
+Tous,374,0.824
+Tous,375,0.826
+Tous,376,0.826
+Tous,377,0.824
+Tous,378,0.822
+Tous,379,0.824
+Tous,380,0.82
+Tous,381,0.824
+Tous,382,0.822
+Tous,383,0.818
+Tous,384,0.818
+Tous,385,0.822
+Tous,386,0.818
+Tous,387,0.816
+Tous,388,0.818
+Tous,389,0.822
+Tous,390,0.822
+Tous,391,0.822
+Tous,392,0.818
+Tous,393,0.822
+Tous,394,0.82
+Tous,395,0.814
+Tous,396,0.816
+Tous,397,0.81
+Tous,398,0.808
+Tous,399,0.808
+Tous,400,0.812
+Tous,401,0.816
+Tous,402,0.812
+Tous,403,0.816
+Tous,404,0.816
+Tous,405,0.806
+Tous,406,0.81
+Tous,407,0.808
+Tous,408,0.81
+Tous,409,0.806
+Tous,410,0.806
+Tous,411,0.808
+Tous,412,0.802
+Tous,413,0.804
+Tous,414,0.804
+Tous,415,0.804
+Tous,416,0.802
+Tous,417,0.802
+Tous,418,0.802
+Tous,419,0.802
+Tous,420,0.8
+Tous,421,0.802
+Tous,422,0.8
+Tous,423,0.804
+Tous,424,0.796
+Tous,425,0.802
+Tous,426,0.802
+Tous,427,0.804
+Tous,428,0.802
+Tous,429,0.802
+Tous,430,0.802
+Tous,431,0.8
+Tous,432,0.8
+Tous,433,0.8
+Tous,434,0.804
+Tous,435,0.798
+Tous,436,0.796
+Tous,437,0.8
+Tous,438,0.798
+Tous,439,0.796
+Tous,440,0.796
+Tous,441,0.8
+Tous,442,0.794
+Tous,443,0.8
+Tous,444,0.798
+Tous,445,0.794
+Tous,446,0.798
+Tous,447,0.794
+Tous,448,0.792
+Tous,449,0.794
+Tous,450,0.786
+Tous,451,0.788
+Tous,452,0.788
+Tous,453,0.784
+Tous,454,0.788
+Tous,455,0.786
+Tous,456,0.784
+Tous,457,0.774
+Tous,458,0.788
+Tous,459,0.774
+Tous,460,0.786
+Tous,461,0.782
+Tous,462,0.778
+Tous,463,0.78
+Tous,464,0.778
+Tous,465,0.782
+Tous,466,0.78
+Tous,467,0.78
+Tous,468,0.79
+Tous,469,0.788
+Tous,470,0.786
+Tous,471,0.782
+Tous,472,0.784
+Tous,473,0.782
+Tous,474,0.786
+Tous,475,0.782
+Tous,476,0.788
+Tous,477,0.786
+Tous,478,0.784
+Tous,479,0.786
+Tous,480,0.774
+Tous,481,0.778
+Tous,482,0.786
+Tous,483,0.78
+Tous,484,0.776
+Tous,485,0.78
+Tous,486,0.774
+Tous,487,0.772
+Tous,488,0.776
+Tous,489,0.772
+Tous,490,0.774
+Tous,491,0.776
+Tous,492,0.774
+Tous,493,0.776
+Tous,494,0.772
+Tous,495,0.774
+Tous,496,0.772
+Tous,497,0.772
+Tous,498,0.774
+Tous,499,0.77
+Tous,500,0.77
