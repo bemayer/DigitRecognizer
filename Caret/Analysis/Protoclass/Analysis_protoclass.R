@@ -47,17 +47,17 @@ for (eps in seq(0.1, 8.9, 0.1))
 	model <- protoclass(y = y_train, dxz = dist_eucl_train,
 	eps=eps, lambda = 1/dim(X_train)[1])
 	pred_train <- predictwithd.protoclass(
-	model,
-	dist_eucl_train)
+			model,
+			dist_eucl_train)
 	pred_test <- predictwithd.protoclass(
-	model,
-	dist_eucl_test)
+			model,
+			dist_eucl_test)
 	matrix_train <- confusionMatrix(
-	y_train,
-	pred_train)
+			y_train,
+			pred_train)
 	matrix_test <- confusionMatrix(
-	y_test,
-	pred_test)
+			y_test,
+			pred_test)
 	acc_retrain <- acc_retrain %>%
 	add_row(eps = eps, n_proto = sum(model$nproto),
 			acc_train = matrix_train[["overall"]][1],
